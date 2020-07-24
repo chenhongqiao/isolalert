@@ -6,7 +6,7 @@
 
 ### Download Intel® oneAPI Base Toolkit
 
-The firt thing you need is to download and install the Intel® oneAPI Base Toolkit.
+The first thing you need is to download and install the Intel® oneAPI Base Toolkit.
 
 You can register, download and information about install it from the following link (Linux version): https://software.intel.com/content/www/us/en/develop/tools/oneapi/download.html#basekit 
 
@@ -16,6 +16,7 @@ Clone the repository at desired location:
 
 ``` bash
 # git clone https://github.com/cabelo/isolalert
+
 ```
 
 ### Download the required files
